@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gity/static/css/main.073c9b0a.css",
-    "main.js": "/gity/static/js/main.a0bc320c.js",
+    "main.css": "/gity/static/css/main.55fa13d2.css",
+    "main.js": "/gity/static/js/main.85316cfd.js",
     "static/js/787.1c940241.chunk.js": "/gity/static/js/787.1c940241.chunk.js",
-    "static/media/logo.svg": "/gity/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/aj.jpg": "/gity/static/media/aj.187c1331096df67d6ea3.jpg",
     "index.html": "/gity/index.html",
-    "main.073c9b0a.css.map": "/gity/static/css/main.073c9b0a.css.map",
-    "main.a0bc320c.js.map": "/gity/static/js/main.a0bc320c.js.map",
+    "main.55fa13d2.css.map": "/gity/static/css/main.55fa13d2.css.map",
+    "main.85316cfd.js.map": "/gity/static/js/main.85316cfd.js.map",
     "787.1c940241.chunk.js.map": "/gity/static/js/787.1c940241.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a0bc320c.js"
+    "static/css/main.55fa13d2.css",
+    "static/js/main.85316cfd.js"
   ]
 }
