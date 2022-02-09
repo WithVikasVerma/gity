@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gity/static/css/main.65f2c2ed.css",
+    "main.css": "/gity/static/css/main.d9ccf928.css",
     "main.js": "/gity/static/js/main.5fa0eb27.js",
     "static/js/787.1c940241.chunk.js": "/gity/static/js/787.1c940241.chunk.js",
     "static/media/aj.png": "/gity/static/media/aj.7c91ece8c20af924ffc5.png",
     "index.html": "/gity/index.html",
-    "main.65f2c2ed.css.map": "/gity/static/css/main.65f2c2ed.css.map",
+    "main.d9ccf928.css.map": "/gity/static/css/main.d9ccf928.css.map",
     "main.5fa0eb27.js.map": "/gity/static/js/main.5fa0eb27.js.map",
     "787.1c940241.chunk.js.map": "/gity/static/js/787.1c940241.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65f2c2ed.css",
+    "static/css/main.d9ccf928.css",
     "static/js/main.5fa0eb27.js"
   ]
 }
