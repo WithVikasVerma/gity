@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/gity/static/css/main.1231a07c.css",
-    "main.js": "/gity/static/js/main.fa566e1a.js",
+    "main.css": "/gity/static/css/main.28e4556e.css",
+    "main.js": "/gity/static/js/main.d6d0c569.js",
     "static/js/787.1c940241.chunk.js": "/gity/static/js/787.1c940241.chunk.js",
     "static/media/aj.png": "/gity/static/media/aj.7c91ece8c20af924ffc5.png",
+    "static/media/Resume.pdf": "/gity/static/media/Resume.dae4ae838c38183d150d.pdf",
     "static/media/imp.svg": "/gity/static/media/imp.2642b57ee80e2b0b77379fdf2a04b45d.svg",
     "static/media/year.svg": "/gity/static/media/year.df8fd5d2c6df0f309218477588c6cdb0.svg",
     "static/media/coder.svg": "/gity/static/media/coder.54fd2e94ab613a5583609c97e9380d8a.svg",
@@ -11,12 +12,12 @@
     "static/media/part.svg": "/gity/static/media/part.26466ccf1bd0987341374e6d09029f8c.svg",
     "static/media/wel.svg": "/gity/static/media/wel.eb6c9c3c9d3b4710ff4a6026a37c39ce.svg",
     "index.html": "/gity/index.html",
-    "main.1231a07c.css.map": "/gity/static/css/main.1231a07c.css.map",
-    "main.fa566e1a.js.map": "/gity/static/js/main.fa566e1a.js.map",
+    "main.28e4556e.css.map": "/gity/static/css/main.28e4556e.css.map",
+    "main.d6d0c569.js.map": "/gity/static/js/main.d6d0c569.js.map",
     "787.1c940241.chunk.js.map": "/gity/static/js/787.1c940241.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1231a07c.css",
-    "static/js/main.fa566e1a.js"
+    "static/css/main.28e4556e.css",
+    "static/js/main.d6d0c569.js"
   ]
 }
