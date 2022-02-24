@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gity/static/css/main.68e51946.css",
-    "main.js": "/gity/static/js/main.635cdde5.js",
+    "main.css": "/gity/static/css/main.7aa3f789.css",
+    "main.js": "/gity/static/js/main.697d362b.js",
     "static/js/787.1c940241.chunk.js": "/gity/static/js/787.1c940241.chunk.js",
     "static/media/Resume.pdf": "/gity/static/media/Resume.dae4ae838c38183d150d.pdf",
     "static/media/imp.svg": "/gity/static/media/imp.2642b57ee80e2b0b77379fdf2a04b45d.svg",
@@ -12,12 +12,12 @@
     "static/media/part.svg": "/gity/static/media/part.26466ccf1bd0987341374e6d09029f8c.svg",
     "static/media/wel.svg": "/gity/static/media/wel.eb6c9c3c9d3b4710ff4a6026a37c39ce.svg",
     "index.html": "/gity/index.html",
-    "main.68e51946.css.map": "/gity/static/css/main.68e51946.css.map",
-    "main.635cdde5.js.map": "/gity/static/js/main.635cdde5.js.map",
+    "main.7aa3f789.css.map": "/gity/static/css/main.7aa3f789.css.map",
+    "main.697d362b.js.map": "/gity/static/js/main.697d362b.js.map",
     "787.1c940241.chunk.js.map": "/gity/static/js/787.1c940241.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68e51946.css",
-    "static/js/main.635cdde5.js"
+    "static/css/main.7aa3f789.css",
+    "static/js/main.697d362b.js"
   ]
 }
